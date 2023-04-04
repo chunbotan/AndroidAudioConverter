@@ -78,7 +78,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.adrielcafe:AndroidAudioConverter:0.0.8'
+  compile 'com.github.chunbotan:AndroidAudioConverter:0.0.8'
 }
 ```
 
